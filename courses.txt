@@ -1,0 +1,4 @@
+101,Computer Networks,11
+102,Information Security,10
+101,DSA,27
+103,DSA,27
